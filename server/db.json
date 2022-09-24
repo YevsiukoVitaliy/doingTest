@@ -1,0 +1,49 @@
+{
+  "hash": [
+    {
+      "id": 1,
+      "name": "Java Concurrency in practice",
+      "price": 15000
+    },
+    {
+      "id": 2,
+      "name": "Clear code",
+      "price": 13000
+    },
+    {
+      "id": 3,
+      "name": "Scala in action",
+      "price": 12000
+    },
+    {
+      "id": "cTUOTz01ZwrsRcaeqwx8w",
+      "name": "React app",
+      "price": 20000
+    },
+    {
+      "id": "1pExyyT0ccqkl27s-mWUK",
+      "name": "HTML+CSS",
+      "price": 15700
+    },
+    {
+      "id": "gyU2ZQBp1i0nZnIr6Slsj",
+      "name": "HTML",
+      "price": "12000"
+    },
+    {
+      "id": "oTCWoynGb6gEEGrjHNZDL",
+      "name": "Redux",
+      "price": "15000"
+    },
+    {
+      "id": "KQLV2qjSG9nfhwY1D5ybl",
+      "name": "CSS",
+      "price": "11000"
+    },
+    {
+      "id": "wA-fLS3fJ4u1_9fr-liDa",
+      "name": "SCSS",
+      "price": "13000"
+    }
+  ]
+}
